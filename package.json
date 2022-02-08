@@ -1,5 +1,5 @@
 {
-  "name": "lnd-binary",
+  "name": "brocoin-ln",
   "version": "0.3.24",
   "description": "Download the latest lnd binary",
   "main": "./dist/index.js",
@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfelton/lnd-binary.git"
+    "url": "git+https://github.com/aman-software/lnd-0.11.0-beta.git"
   },
   "dependencies": {
     "axios": "0.24.0",
@@ -58,12 +58,12 @@
     "lightning-network",
     "lnd"
   ],
-  "author": "Tom Kirkpatrick <tkp@kirkdesigns.co.uk> (http://www.kirkdesigns.co.uk/)",
+  "author": "aman saxena",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrfelton/lnd-binary/issues"
+    "url": "https://github.com/aman-software/lnd-0.11.0-beta.git"
   },
-  "homepage": "https://github.com/mrfelton/lnd-binary",
+  "homepage": "https://github.com/aman-software/lnd-0.11.0-beta.git",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-plugin-add-module-exports": "1.0.4",
