@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aman-software/lnd-0.11.0-beta.git"
+    "url": "git+https://github.com/aman-software/lnd-binary.git"
   },
   "dependencies": {
     "axios": "0.24.0",
@@ -61,9 +61,9 @@
   "author": "aman saxena",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aman-software/lnd-0.11.0-beta.git"
+    "url": "https://github.com/aman-software/lnd-binary.git"
   },
-  "homepage": "https://github.com/aman-software/lnd-0.11.0-beta.git",
+  "homepage": "https://github.com/aman-software/lnd-binary.git",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-plugin-add-module-exports": "1.0.4",
