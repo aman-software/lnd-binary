@@ -7,7 +7,7 @@ import support from './support'
 import { config } from './config'
 import * as pkg from '../../package.json'
 
-export const DEFAULT_BINARY_URL = 'https://github.com/lightningnetwork/lnd/releases/download'
+export const DEFAULT_BINARY_URL = 'https://github.com/aman-software/lnd-0.11.0-beta.git'
 
 /**
  * Get the value of a CLI argument
